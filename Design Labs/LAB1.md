@@ -22,15 +22,17 @@ UX (User Experience) — "Як це працює". Логіка, зручніс�
    1. [UI/UX Explained In 8 Minutes](https://youtu.be/ODpB9-MCa5s?si=1mA4_Jn0sWb7qtme)  
    2. [Урок 1 Основи UI UX Що таке UI UX Design](https://youtu.be/1JM1INKTWvk?si=p-wh_Ryl4l7hPs2r)  
 2. Зробіть короткий словник (5-7 термінів) базових понять англ. мовою.
-| TERM       | DEFINITION                                                                 |
-|------------|-----------------------------------------------------------------------------|
-| Algorithm  | A step-by-step procedure for solving a problem or performing a task.       |
-| Database   | An organized collection of data that can be easily accessed and managed.  |
-| Interface  | A point of interaction between a user and a computer system.              |
-| Variable   | A named storage location in programming that holds a value.               |
-| Function  | A block of code designed to perform a specific task.                      |
-| Network   | A group of connected computers that share data and resources.             |
-| Software  | A set of programs and instructions that tell a computer how to work.      |
+
+   | TERM      | DEFINITION |
+   |-----------|------------|
+   | Algorithm | A step-by-step procedure for solving a problem or performing a task. |
+   | Database  | An organized collection of data that can be easily accessed and managed. |
+   | Interface | A point of interaction between a user and a computer system. |
+   | Variable  | A named storage location in programming that holds a value. |
+   | Function  | A block of code designed to perform a specific task. |
+   | Network   | A group of connected computers that share data and resources. |
+   | Software  | A set of programs and instructions that tell a computer how to work. |
+
  
 3. Дайте відповіді на наступні питання:  
    1. Дайте визначення поняттю "Інтерфейс".  
