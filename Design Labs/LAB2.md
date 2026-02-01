@@ -18,7 +18,8 @@
    2. [Введення у Web дизайн](https://youtu.be/VdU81Kz9l6s?si=LkOpAD2_H3qSlMG3)  
 2. Зробіть короткий словник (5-7 термінів) базових понять англ. мовою.
 
-   | Term | Meaning |
+
+| Term | Meaning |
 |------|---------|
 | Planning | The stage where project goals, scope, timeline, and resources are defined before development begins. |
 | Requirement Analysis | The process of gathering and analyzing user and business needs to define what the product must achieve. |
