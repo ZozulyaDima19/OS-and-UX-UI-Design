@@ -144,8 +144,8 @@
   uname -s
   uname -n
   uname -m
-  uname -a
-
+  uname -a ```
+  
   ![](images/l7.png)
 
 ---
