@@ -110,28 +110,63 @@
 #### 2.1. Робота зі змінними (Variables) та псевдонімами (Aliases) в терміналі:
 
 - Створіть змінні, що будуть містити Ваші імена та прізвища $var_name1, $var_name2, $var_name3
+  ```bash
+  var_name="Dima"
+  var_name2="Volodya"
+  var_name3="Mykola"
+  ```
   ![](images/l1.png)  
 - За допомогою команди echo виведіть імена студентів вашої команди
+  ```bash
+  echo $var_name $var_name2 $var_name3
+  ```
   ![](images/l2.png)  
 - Створіть псевдоніми mycal1, mycal2, mycal3 для команди cal для автоматичного виведення календарю вашого року народження
+  ```bash
+  alias mycal1="cal 2005"
+  alias mycal2="cal -y 2005"
+  alias mycal3="cal -3"
+  }
+  ```
   ![](images/l3.png)  
 
 #### 2.2. *Робота з функціями (Functions) в терміналі:
 
 - Створіть функцію students_report, що порядково буде виводити спочатку імена студентів Вашої команди, а потім роки їх народження
-
+  ```bash
+  student_report() {
+  echo $var_name "2007"
+  echo $var_name2 "2008"
+  echo $var_name3 "2009"
+  }
+  ```
   ![](images/l4.png)  
 
 #### 2.3. *Робота з лапками (Quoting) в терміналі. Виведіть в командному рядку наступні речення:
 
 - “We create such variables as $var_name1, $var_name2, $var_name3, which stored our names Name1, Name2, Name3”  
 - “We create such Aliases as mycal1, mycal2, mycal3, which can show our calendars: Calendar1, Calendar2, Calendar3”
+  ```bash
+  echo "We create such variables as \$var_name, \$var_name2, \$var_name3, which stored our names $var_name, $var_name2, $var_name3"
+  echo "We create such Aliases as mycal1, mycal2, mycal3, which can show our calendars:"
+  ```
   ![](images/l5.png)  
 
 #### 2.4. **Робота з інструкціями керування (Control Statements) в терміналі:
 
 - Чи можна завдання 2.1 та 2.2 ходу роботи виконати через інструкції керування без написання окремої функції, як це буде виглядати?
-
+  ```bash
+  {
+  echo $var_name
+  echo $var_name2
+  echo $var_name3
+  
+  echo "Birth years:"
+  echo "2007"
+  echo "2008"
+  echo "2008"
+  }
+  ```
   ![](images/l6.png)  
 
 #### 2.5. Робота з командами довідки (Man Pages) в терміналі:
@@ -144,7 +179,8 @@
   uname -s
   uname -n
   uname -m
-  uname -a ```
+  uname -a
+  ```
   
   ![](images/l7.png)
 
