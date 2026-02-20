@@ -126,7 +126,6 @@
   alias mycal1="cal 2005"
   alias mycal2="cal -y 2005"
   alias mycal3="cal -3"
-  }
   ```
   ![](images/l3.png)  
 
