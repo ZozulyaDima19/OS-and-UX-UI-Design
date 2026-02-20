@@ -139,12 +139,12 @@
 - На прикладі команди uname продемонструйте як отримати довідку. На основі отриманої додаткової інформації наведіть 5 різних варіантів виводу результату інформації по даній команді з використанням 5 різних параметрів (Options)
 
   ```bash
-man uname
-uname -r
-uname -s
-uname -n
-uname -m
-uname -a
+  man uname
+  uname -r
+  uname -s
+  uname -n
+  uname -m
+  uname -a
 
   ![](images/l7.png)
 
