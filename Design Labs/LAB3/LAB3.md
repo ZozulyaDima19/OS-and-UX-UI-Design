@@ -112,7 +112,7 @@ Domain Research - це дослідження ринку, галузі та ко
 
 ### **Практичне завдання №3. Етап Empathy (підвищений рівень)**  
 
-https://www.figma.com/board/jm7y2KpeJxgNd59MWaeuHX/User-Interview?node-id=0-1&t=iUQqaSTyLLVhvoRV-1
+![FigJam](https://www.figma.com/board/jm7y2KpeJxgNd59MWaeuHX/User-Interview?node-id=0-1&t=iUQqaSTyLLVhvoRV-1)
 
 ---
 
