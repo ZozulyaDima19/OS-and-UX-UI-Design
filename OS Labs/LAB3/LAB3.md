@@ -109,26 +109,33 @@
 
 #### 2.1. Робота зі змінними (Variables) та псевдонімами (Aliases) в терміналі:
 
-- Створіть змінні, що будуть містити Ваші імена та прізвища $var_name1, $var_name2, $var_name3  
-- За допомогою команди echo виведіть імена студентів вашої команди  
-- Створіть псевдоніми mycal1, mycal2, mycal3 для команди cal для автоматичного виведення календарю вашого року народження  
+- Створіть змінні, що будуть містити Ваші імена та прізвища $var_name1, $var_name2, $var_name3
+  ![](images/l1.png)  
+- За допомогою команди echo виведіть імена студентів вашої команди
+  ![](images/l2.png)  
+- Створіть псевдоніми mycal1, mycal2, mycal3 для команди cal для автоматичного виведення календарю вашого року народження
+  ![](images/l3.png)  
 
 #### 2.2. *Робота з функціями (Functions) в терміналі:
 
-- Створіть функцію students_report, що порядково буде виводити спочатку імена студентів Вашої команди, а потім роки їх народження  
+- Створіть функцію students_report, що порядково буде виводити спочатку імена студентів Вашої команди, а потім роки їх народження
+  ![](images/l4.png)  
 
 #### 2.3. *Робота з лапками (Quoting) в терміналі. Виведіть в командному рядку наступні речення:
 
 - “We create such variables as $var_name1, $var_name2, $var_name3, which stored our names Name1, Name2, Name3”  
-- “We create such Aliases as mycal1, mycal2, mycal3, which can show our calendars: Calendar1, Calendar2, Calendar3”  
+- “We create such Aliases as mycal1, mycal2, mycal3, which can show our calendars: Calendar1, Calendar2, Calendar3”
+  ![](images/l5.png)  
 
 #### 2.4. **Робота з інструкціями керування (Control Statements) в терміналі:
 
-- Чи можна завдання 2.1 та 2.2 ходу роботи виконати через інструкції керування без написання окремої функції, як це буде виглядати?  
+- Чи можна завдання 2.1 та 2.2 ходу роботи виконати через інструкції керування без написання окремої функції, як це буде виглядати?
+  ![](images/l6.png)  
 
 #### 2.5. Робота з командами довідки (Man Pages) в терміналі:
 
 - На прикладі команди uname продемонструйте як отримати довідку. На основі отриманої додаткової інформації наведіть 5 різних варіантів виводу результату інформації по даній команді з використанням 5 різних параметрів (Options)
+  ![](images/l7.png)
 
 ---
 
@@ -165,3 +172,11 @@
 ### 8. Яке призначення команд whereis та locate? Яка між ними відмінність?
 
 Команда `whereis` шукає розташування виконуваних файлів, вихідних кодів і man-сторінок у стандартних каталогах. Команда `locate` шукає файли за попередньо створеною базою даних по всій файловій системі. Відмінність у тому, що `locate` працює швидше, але залежить від актуальності бази даних, тоді як `whereis` шукає лише в стандартних шляхах.
+
+---
+
+## Conclusion
+
+During this laboratory work, the basic concepts of the Linux command-line interface were studied. The roles of the command interpreter, shell, and commands were analyzed, as well as the structure of the prompt and the use of parameters and arguments. Special attention was paid to the `ls`, `echo`, `history`, `env`, `export`, and `unset` commands and their practical application in the terminal.
+
+As a result of this work, practical skills in working with the Bash shell were developed, including using command history, working with variables, and obtaining help information in the terminal. The laboratory helped to better understand how the CLI environment functions and how it can be effectively used for system interaction and administration.
