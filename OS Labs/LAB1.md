@@ -164,6 +164,6 @@ Embedded Linux - це версія Linux, адаптована для вбудо
 
 ---
 
-## **Висновок**
+## **Conclusion**
 
-Під час виконання лабораторної роботи було розглянуто основи віртуалізації та принципи роботи гіпервізорів, зокрема гіпервізора VirtualBox. Було проаналізовано особливості встановлення та використання операційної системи Linux, її текстового та графічного режимів роботи, а також можливості розширення системи шляхом встановлення різних графічних оболонок.
+During the laboratory work, the basics of virtualization and the principles of operation of hypervisors, in particular the VirtualBox hypervisor, were considered. The features of installing and using the Linux operating system, its text and graphical modes of operation, as well as the possibilities of expanding the system by installing various graphical shells were analyzed.
