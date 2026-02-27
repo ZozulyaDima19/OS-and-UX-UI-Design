@@ -1,28 +1,34 @@
-# WORK-CASE-2  
-# Гіпервізор ІІ типу – Virtual Box
+# WORK-CASE-2
+# Type II Hypervisor – Virtual Box
 
 ![](https://www.virtualbox.org/graphics/vbox-new-logo.png)
 
-# Опис базових дій в Virtual Box
+# Description of basic actions in Virtual Box
 
-- **Створення нової віртуальної машини**
+- **Creating a new virtual machine**
 
-Створення нової віртуальної машини виконується через кнопку New у VirtualBox. Потрібно задати назву, тип та версію операційної системи, після чого виділити оперативну пам’ять та створити або підключити віртуальний жорсткий диск.
+Creating a new virtual machine is done via the New button in VirtualBox. You need to specify the name, type and version of the operating system, then allocate RAM and create or connect a virtual hard disk.
 ![](images/1.png)
-- **Вибір/додавання доступного для віртуальної машини обладнання**
+- **Selecting/adding equipment available to the virtual machine**
 
-У налаштуваннях віртуальної машини можна змінити кількість процесорів, обсяг оперативної пам’яті, відеопам’ять, додати або змінити тип контролера дисків, підключити ISO-образ, налаштувати мережеві адаптери та інше віртуальне обладнання.
+In the virtual machine settings, you can change the number of processors, the amount of RAM, video memory, add or change the type of disk controller, connect an ISO image, configure network adapters and other virtual equipment.
 ![](images/2.png)
-- **Налаштування мережі та підключення до точок Wi-Fi**
+- **Configuring the network and connecting to Wi-Fi points**
 
-У розділі Network обирається режим роботи мережі - NAT, Bridged Adapter або інший тип підключення. У режимі Bridged Adapter віртуальна машина отримує доступ до тієї ж мережі, що і хост-ОС, що дозволяє підключення через Wi-Fi.
+In the Network section, the network operation mode is selected - NAT, Bridged Adapter or another type of connection. In Bridged Adapter mode, the virtual machine accesses the same network as the host OS, allowing Wi-Fi connectivity.
 ![](images/3.png)
-- **Можливість роботи з зовнішніми носіями (flash-пам’ять)**
+- **External media (flash memory) support**
 
-Для роботи з flash-пам’яттю використовується розділ USB у налаштуваннях віртуальної машини. Після підключення USB-пристрою до хоста його можна передати у гостьову систему через меню Devices - USB.
+The USB section in the virtual machine settings is used to work with flash memory. After connecting a USB device to the host, it can be transferred to the guest system via the Devices - USB menu.
 ![](images/4.png)
 
-# Встановлення віртуальної машини
+# Installing a virtual machine
 ![](images/5.png)
 ![](images/6.png)
 ![](https://i.redd.it/my-linux-mint-with-gnome-v0-lp4q3onk3wsf1.png?width=1366&format=png&auto=webp&s=f0c61a8cdde43fbb71bc4dda2183ebc77b81c84d)
+
+# Conclusion
+
+During this work, the basic functionality of the Type II hypervisor VirtualBox was studied and practically tested. The process of creating a new virtual machine, configuring its hardware resources, setting up network connectivity, and working with external media was analyzed. Special attention was given to installing a GNU/Linux operating system in a virtual environment and configuring the graphical interface.
+
+As a result, practical skills in deploying and managing virtual machines were acquired. VirtualBox proved to be a convenient and flexible tool for virtualization, allowing efficient testing, configuration, and experimentation with operating systems without affecting the host system.
