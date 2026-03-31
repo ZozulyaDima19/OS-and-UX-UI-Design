@@ -80,6 +80,42 @@ grep — шукає текст за шаблоном у файлах або по
 
 ---
 
+### 3. Ознайомтесь з командою tar та за її допомогою виконати у терміналі наступні дії:
+
+- створити файл з розширенням .tar  
+  `tar -cvf archive.tar file1`
+![](images/1.png)
+
+- створити файл з розширенням .tar, що складається з декількох файлів і каталогів одночасно  
+  `tar -cvf archive.tar file1 dir1 dir2`
+![](images/2.png)
+
+- перегляду вмісту файлу  
+  `tar -tvf archive.tar`
+![](images/3.png)
+
+- витягти вміст файлу tar  
+  `tar -xvf archive.tar`
+![](images/4.png)
+
+- створити архівний файл tar, стиснений за допомогою bzip  
+  `tar -cjvf archive.tar.bz2 folder`
+![](images/5.png)
+
+- витягти вміст файлу tar bzip  
+  `tar -xjvf archive.tar.bz2`
+![](images/6.png)
+
+- створити архівний tar файл, стиснений за допомогою gzip  
+  `tar -czvf archive.tar.gz folder`
+![](images/7.png)
+
+- витягти вміст файлу tar gzip  
+  `tar -xzvf archive.tar.gz`
+![](images/8.png)
+
+---
+
 ### Перенаправлення потоків
 
 | Команда | Що виконує команда? |
