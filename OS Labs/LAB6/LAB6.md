@@ -176,6 +176,6 @@ grep — шукає текст за шаблоном у файлах або по
 
 ---
 
-## Висновок
+## Conclusion
 
-У ході роботи було отримано практичні навички роботи з командами архівування, стиснення та обробки тексту в Linux. Ознайомлено з потоками введення/виведення та їх перенаправленням.
+During the work, practical skills were acquired in working with archiving, compression, and text processing commands in Linux. I/O streams and their redirection were introduced.
