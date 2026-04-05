@@ -1,5 +1,17 @@
 # Work-case 4
 
+| Term            | Definition                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| Package         | An archived set of files that contains a program, its dependencies and metadata |
+| Repository      | A centralized storage where software packages are stored and managed     |
+| APT             | A package manager used in Debian-based systems for installing and updating software |
+| Dependency      | A required library or package needed for a program to work properly      |
+| Package Manager | A tool used to install, update and remove software packages              |
+| Snap            | A universal package format for Linux applications                        |
+| Flatpak         | A system for distributing desktop applications in a sandboxed environment |
+| Upgrade         | The process of updating installed software to a newer version           |
+
+
 ## 1. Пакет і репозиторій
 
 **Пакет** - це архівований набір файлів, який містить програму або бібліотеку разом із виконуваними файлами, конфігураціями, залежностями та метаданими (версія, опис тощо).
@@ -121,3 +133,7 @@ sudo apt install openjdk-17-jdk
 5. Дочекатися завершення встановлення
 
 Ці інструменти дозволяють встановлювати програми без використання терміналу та працюють із системними пакетами, Snap або Flatpak.
+
+## Conclusion
+
+During this work, the concepts of packages and repositories in Linux were studied. The functionality of different package managers and their role in software management was analyzed. Practical tasks helped to understand how to install, update, and remove programs using both terminal commands and graphical tools. This experience is useful for efficient system administration and working with software in Linux environments.
