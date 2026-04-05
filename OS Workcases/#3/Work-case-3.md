@@ -75,5 +75,4 @@ cp ~/Desktop/document.txt /media/sf_shared/
 ```
 Файл з’явиться у папці на хості.
 
-Місце для скріну: ![Обмін файлами](file_transfer.png)
 
