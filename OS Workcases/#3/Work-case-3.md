@@ -1,6 +1,17 @@
 
 # Work-case 3: Віртуальні машини та мережеві налаштування
 
+| Term                     | Definition                                                                 |
+|--------------------------|--------------------------------------------------------------------------|
+| Virtual Machine (VM)     | A software-based computer that runs an operating system inside another system |
+| Hypervisor               | Software that creates and manages virtual machines                      |
+| NAT                      | A networking mode that allows a VM to access the Internet through the host |
+| Bridged Network          | A mode where a VM gets its own IP address in the same network as the host |
+| Host-only Network        | A private network between the host and virtual machines without Internet |
+| Cloning                  | The process of creating an exact copy of a virtual machine               |
+| IP Address               | A unique identifier assigned to a device in a network                    |
+| Mounting                 | The process of attaching a storage device to the file system            |
+
 ## Завдання 1: Клонування віртуальної машини
 
 1.1 Для клонування робочої ОС у VirtualBox (або іншому середовищі, наприклад VMWare) виконуємо наступні кроки:
@@ -72,6 +83,10 @@ nc 192.168.56.102 12345
 4.2 Зворотне копіювання з VM на основну ОС також відбувається через спільні папки або drag&drop. У терміналі Linux це можна зробити так:
 ```bash
 cp ~/Desktop/document.txt /media/sf_shared/
+
+## Conclusion
+
+During this work, the basic principles of working with virtual machines and network configurations were studied. The process of cloning virtual machines, configuring different types of network connections, and organizing communication between systems was analyzed. Practical tasks helped to better understand how virtual environments operate and how devices interact within a network. This knowledge is important for further work with operating systems, virtualization technologies, and network administration.
 ```
 Файл з’явиться у папці на хості.
 
