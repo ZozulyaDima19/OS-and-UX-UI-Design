@@ -80,15 +80,21 @@ sudo apt update
 sudo apt install vlc
 ```
 
+![](images/1.png)
+
 ### Середовище програмування (Python)
 ```bash
 sudo apt install python3 python3-pip
 ```
 
+![](images/2.png)
+
 ### Або Java
 ```bash
 sudo apt install openjdk-17-jdk
 ```
+
+![](images/3.png)
 
 ---
 
