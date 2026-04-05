@@ -1,5 +1,16 @@
 # Work-case 5
 
+| Term            | Definition                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| Peripheral Device | An external device connected to a computer, such as a printer or USB drive |
+| Mounting        | The process of attaching a storage device to the file system             |
+| Block Device    | A type of device that stores data in blocks, such as a hard drive or USB |
+| File System     | A method of organizing and storing files on a storage device            |
+| CUPS            | A printing system used in Linux to manage printers and print jobs       |
+| Driver          | Software that allows the operating system to communicate with hardware  |
+| Terminal        | A command-line interface used to interact with the operating system     |
+| Command         | An instruction given to the system through the terminal                 |
+
 ## 1.
 
 При роботі з персональним комп’ютером часто виникає потреба підключення периферійних пристроїв, таких як принтер або флеш-накопичувач. В операційній системі Linux для роботи з такими пристроями використовується **механізм драйверів, файлової системи та автоматичного визначення пристроїв**.
@@ -40,3 +51,7 @@
 ![](images/3.png)
 
 ![](images/4.png)
+
+## Conclusion
+
+During this work, the principles of connecting and using peripheral devices in Linux were studied. The concept of mounting and its importance in accessing storage devices was analyzed. Practical tasks demonstrated how to work with USB drives and printers using both graphical interface and terminal commands. This experience helps to better understand how Linux interacts with hardware and improves overall system management skills.
