@@ -102,8 +102,16 @@ sudo apt install openjdk-17-jdk
 
 **Магазини додатків:**
 - Ubuntu Software
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/e/e0/Ubuntu_Software_Center_13.10.png)
+  
 - GNOME Software
+
+  ![](https://www.omgubuntu.co.uk/wp-content/uploads/2021/02/gnome-software-refresh.jpg)
+  
 - KDE Discover
+
+  ![](https://userbase.kde.org/images.userbase/thumb/8/8c/Discoverfront.png/900px-Discoverfront.png)
 
 **Кроки встановлення:**
 1. Відкрити магазин додатків
