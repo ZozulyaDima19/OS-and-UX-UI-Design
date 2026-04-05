@@ -83,11 +83,11 @@ nc 192.168.56.102 12345
 4.2 Зворотне копіювання з VM на основну ОС також відбувається через спільні папки або drag&drop. У терміналі Linux це можна зробити так:
 ```bash
 cp ~/Desktop/document.txt /media/sf_shared/
+```
+Файл з’явиться у папці на хості.
 
 ## Conclusion
 
 During this work, the basic principles of working with virtual machines and network configurations were studied. The process of cloning virtual machines, configuring different types of network connections, and organizing communication between systems was analyzed. Practical tasks helped to better understand how virtual environments operate and how devices interact within a network. This knowledge is important for further work with operating systems, virtualization technologies, and network administration.
-```
-Файл з’явиться у папці на хості.
 
 
