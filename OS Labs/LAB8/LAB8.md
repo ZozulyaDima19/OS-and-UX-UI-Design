@@ -210,6 +210,6 @@ FHS розроблено для стандартизації структури 
 
 ---
 
-## Висновок
+## Conclusion
 
 During the laboratory work, the structure of system data storage and network configuration in Linux was studied. The functionality of pseudo filesystems such as /proc and /sys was analyzed, along with practical usage of commands for process and network management. The work significantly improved practical skills in Bash and understanding of Linux system architecture.
