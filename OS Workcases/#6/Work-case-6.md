@@ -2,9 +2,6 @@
 
 ## Робота з користувачами та командними інтерпретаторами в Linux
 
-**Виконав:** студент групи РПЗ-33
-**ПІБ:** Зозуля Дмитро
-
 ---
 
 ## Мета роботи
@@ -34,7 +31,7 @@ sudo apt install zsh fish -y
 
 cat /etc/shells
 
-📸 *Скріншот списку доступних shell*
+![](images/1.png)
 
 ---
 
@@ -61,7 +58,7 @@ sudo groupadd financiers
 sudo groupadd founders
 sudo groupadd guests
 
-📸 *Скріншот створення груп*
+![](images/2.png)
 
 ---
 
@@ -78,7 +75,7 @@ sudo useradd -m user8
 sudo useradd -m user9
 sudo useradd -m user10
 
-📸 *Скріншот створення користувачів*
+![](images/3.png)
 
 ---
 
@@ -99,7 +96,7 @@ sudo usermod -aG founders user8
 sudo usermod -aG guests user9
 sudo usermod -aG guests user10
 
-📸 *Скріншот розподілу по групах*
+![](images/4.png)
 
 ---
 
@@ -149,7 +146,7 @@ sudo usermod -s /usr/bin/fish user8
 sudo usermod -s /usr/sbin/nologin user9
 sudo usermod -s /usr/sbin/nologin user10
 
-📸 *Скріншот налаштування shell*
+![](images/5.png)
 
 ---
 
@@ -157,7 +154,7 @@ sudo usermod -s /usr/sbin/nologin user10
 
 cat /etc/passwd
 
-📸 *Скріншот перевірки shell користувачів*
+![](images/6.png)
 
 ---
 
@@ -167,7 +164,7 @@ cat /etc/passwd
 
 su - user1
 
-📸 *Скріншот входу*
+![](images/7.png)
 
 ---
 
@@ -177,7 +174,7 @@ su - user1
 
 uname -a
 
-📸 *Скріншот результату*
+![](images/8.png)
 
 ---
 
@@ -185,7 +182,7 @@ uname -a
 
 date
 
-📸 *Скріншот результату*
+![](images/9.png)
 
 ---
 
@@ -193,7 +190,7 @@ date
 
 pwd
 
-📸 *Скріншот результату*
+![](images/10.png)
 
 ---
 
@@ -201,7 +198,7 @@ pwd
 
 ls -la
 
-📸 *Скріншот результату*
+![](images/11.png)
 
 ---
 
@@ -209,7 +206,7 @@ ls -la
 
 su - user5
 
-📸 *Скріншот помилки (nologin)*
+![](images/12.png)
 
 ---
 
