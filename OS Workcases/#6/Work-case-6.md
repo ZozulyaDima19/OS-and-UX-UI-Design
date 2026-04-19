@@ -2,6 +2,38 @@
 
 ## Робота з користувачами та командними інтерпретаторами в Linux
 
+| Term                 | Definition                                                                       |
+| -------------------- | -------------------------------------------------------------------------------- |
+| Shell                | A program that allows users to interact with the operating system using commands |
+| Bash                 | A default Linux shell used for command execution and scripting                   |
+| Zsh                  | An advanced shell with improved features like auto-completion                    |
+| Fish                 | A user-friendly shell with built-in suggestions and highlighting                 |
+| Command              | An instruction given to the system via terminal                                  |
+| Terminal             | A text-based interface for interacting with the system                           |
+| Root                 | The superuser with full administrative privileges                                |
+| Sudo                 | A command used to execute actions with administrative rights                     |
+| Permission           | Rights that define access to files and system resources                          |
+| File system          | The structure used by the OS to store and organize data                          |
+| Directory            | A folder used to organize files                                                  |
+| Login                | The process of accessing a system with credentials                               |
+| Logout               | The process of exiting a user session                                            |
+| useradd              | A command used to create a new user                                              |
+| groupadd             | A command used to create a new group                                             |
+| usermod              | A command used to modify user settings                                           |
+| passwd               | A command used to change a user password                                         |
+| su                   | A command used to switch to another user                                         |
+| nologin              | A setting that prevents a user from logging in                                   |
+| /etc/passwd          | A system file that stores user account information                               |
+| /etc/shells          | A file that lists available command shells                                       |
+| which                | A command that shows the path of an executable                                   |
+| uname                | A command that displays system information                                       |
+| date                 | A command that shows current date and time                                       |
+| pwd                  | A command that shows the current directory                                       |
+| ls                   | A command that lists files and directories                                       |
+
+
+
+
 ---
 
 ## Мета роботи
@@ -210,6 +242,6 @@ su - user5
 
 ---
 
-# Висновок
+# Conclusion
 
-Під час виконання даної роботи було розглянуто процес встановлення додаткових командних інтерпретаторів, створення користувачів та їх розподіл по групах. Було налаштовано різні оболонки для різних категорій користувачів, а також обмежено доступ для окремих груп. Отримані навички дозволяють ефективно керувати доступом користувачів у Linux системі та підвищують рівень безпеки.
+During this work, the process of installing additional command interpreters, creating users and distributing them to groups was considered. Different shells were configured for different categories of users, and access was also restricted for individual groups. The acquired skills allow you to effectively manage user access in a Linux system and increase the level of security.
