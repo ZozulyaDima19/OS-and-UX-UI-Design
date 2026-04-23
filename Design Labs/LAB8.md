@@ -59,7 +59,7 @@ Focus state виникає, коли елемент вибрано за допо
 
 # **Хід роботи**
 
-[FigJam](https://www.figma.com/board/zXx2tiaYI79KaxLpx68WWD/%D0%9B%D0%B0%D0%B1-17?node-id=0-1&p=f&t=QS15Fmf5smYuNER7-0)
+[FigJam](https://www.figma.com/board/dn2rwEOPIhqGGgYHQha6M4/Untitled?node-id=0-1&t=IWmU83v8dYcyIlZw-1)
 [Figma Icons](https://www.figma.com/design/z0sfijmBcM30ChN1JVnysx/Icons?t=QS15Fmf5smYuNER7-0)
 [Figma App](https://www.figma.com/make/TyOGoO5Qh7GYu7zO1kxTR4/Frames?p=f&t=c5OqdPyjFACLuw5U-0&fullscreen=1)
 [Figma AI Icons](https://www.figma.com/make/LuAY7dMGhgnpGEM0grOxWO/AI-Icons?p=f&t=XElzhf5ErWchSa59-0&fullscreen=1)
